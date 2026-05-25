@@ -9,8 +9,11 @@ summary:: ""
 
 - Themes
 	- Whimsical
-	- Choices have consequences, sometimes unintentional
-	- Rules
+	- Choices have consequences, sometimes unintentional. Attitude and actions have a reverberating effect on the world
+	- Rules ([[Rules of Conduct]])
+		- Have a sense of "cosmic enforcement"
+		- If you break a rule some unexpected consequence may happen
+		- Use rules to manipulate NPCs
 - Inspirations
 	- Wizard of Oz
 	- Peter Pan

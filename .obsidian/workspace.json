@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Rules of Conduct"
             }
+          },
+          {
+            "id": "fcfb942d26ecfac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 00 - Lost Things.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 00 - Lost Things"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,13 +228,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "a20248a4b21b3642",
+  "active": "fcfb942d26ecfac2",
   "lastOpenFiles": [
-    "Index.md",
     "Rules of Conduct.md",
+    "Attachments.md",
+    "Index.md",
     "Session Notes/Session 00 - Lost Things.md",
     "Templates/Prep Template.md",
-    "Attachments.md",
     "Welcome.md",
     "PCs",
     "Session Notes",
