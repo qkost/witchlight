@@ -52,11 +52,11 @@ summary:: ""
 
 ### Lost things
 
-| #   | PC            | Player | Thing     | Magic Item | Keeper |
-| --- | ------------- | ------ | --------- | ---------- | ------ |
-| 1   | Huckleberry   | Sean   | Real name |            | 3      |
-| 2   | Belcar "Bell" | Tim    |           |            | 6      |
-| 3   | Auriel        | Yvette |           |            | 7      |
+| #   | PC            | Player | Thing              | Magic Item | Keeper |
+| --- | ------------- | ------ | ------------------ | ---------- | ------ |
+| 1   | Huckleberry   | Sean   | Real name/Subtlety |            | 3      |
+| 2   | Belcar "Bell" | Tim    |                    |            | 6      |
+| 3   | Auriel        | Yvette |                    |            | 7      |
 
 
 
