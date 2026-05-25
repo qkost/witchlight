@@ -52,7 +52,7 @@ summary:: ""
 			- Voodoo doll-esque that impacted somebody
 			- Maybe somebody at the carnival
 		- Deal
-			- [[Huckleberry]] jealous of [[Ellywick Tumblestrum]] who is a renound bard
+			- [[Huckleberry]] jealous of [[Ellywick Tumblestrum]] who is a renowned bard
 			- Deal with "The Bitter End" to give bard powers
 			- Give strand of hair to replace strand of hair on [[Ellywick Tumblestrum]]'s lute
 				- Successful and sounded like normal when played
@@ -60,13 +60,18 @@ summary:: ""
 			- [[Ellywick Tumblestrum]] was at the carnival (why he snuck in without a ticket)
 * 
 
+### How they Met
+
+- Met at [[Witchlight Carnival]] some time ago
+- 
+
 ### Lost things
 
-| #   | PC            | Player | Thing                   | Magic Item | Keeper |
-| --- | ------------- | ------ | ----------------------- | ---------- | ------ |
-| 1   | Huckleberry   | Sean   | Subtlety                |            | 3      |
-| 2   | Belcar "Bell" | Tim    | Ability to keep secrets |            | 6      |
-| 3   | Auriel        | Yvette |                         |            | 7      |
+| #   | PC                     | Player | Thing                   | Magic Item | Keeper |
+| --- | ---------------------- | ------ | ----------------------- | ---------- | ------ |
+| 1   | [[Huckleberry]]        | Sean   | Subtlety                |            | 3      |
+| 2   | [[Belcar]] "Bell"      | Tim    | Ability to keep secrets |            | 6      |
+| 3   | [[Auriel Dawnwhisper]] | Yvette |                         |            | 7      |
 
 
 

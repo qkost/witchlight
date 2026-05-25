@@ -1,0 +1,8 @@
+- Patron: [[Endelyn Moongrave]]
+- Deal
+	- [[Huckleberry]] jealous of [[Ellywick Tumblestrum]] who is a renowned bard
+	- Deal with "The Bitter End" to give bard powers
+	- Give strand of hair to replace strand of hair on [[Ellywick Tumblestrum]]'s lute
+		- Successful and sounded like normal when played
+		- Unable to travel to [[Prismere]] to help [[Zybilna]]
+	- [[Ellywick Tumblestrum]] was at the carnival (why he snuck in without a ticket)
