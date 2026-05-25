@@ -24,7 +24,8 @@ summary:: ""
 	- 5e core/expanded that aren't legacy
 - Combat
 	- More combat-light than Curse of Strahd
-	- Considering adding some mo
+	- Very few villains whose motive is 
+	- Considering adding some more unambiguous bad guys
 
 ## Character Checklist
 
@@ -66,9 +67,12 @@ summary:: ""
 | 14  | Subtlety                                          | Boots of Elvenkind                             |
 | 15  | Your faith                                        | 1/day use of Channel Divinity                  |
 | 16  | Ability to Forget                                 | Spell Scroll of Modify Memory?                 |
-| 17  | Important Memory                                  |                                                |
-| 18  | Peace of Mind                                     | Amulet of Proof against Detection and Location |
+| 17  | Important memory                                  |                                                |
+| 18  | Peace of mind                                     | Amulet of Proof against Detection and Location |
 | 19  | Youth                                             |                                                |
-|     |                                                   |                                                |
-|     |                                                   |                                                |
+| 20  | Identity                                          |                                                |
+| 21  | Ability to say "No"                               |                                                |
+| 22  | An emotion                                        |                                                |
+| 23  | Dreams                                            |                                                |
+| 24  | Self-control                                      |                                                |
 |     |                                                   |                                                |
