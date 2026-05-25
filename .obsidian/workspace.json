@@ -11,33 +11,32 @@
             "id": "b548f7b2866b9c3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5832f7a4a225a09d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "987306b1003f70aa",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Attachments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Attachments"
+            }
+          },
+          {
+            "id": "bde8a2817e1219dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 00 - Lost Things.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 00 - Lost Things"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,11 +200,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b548f7b2866b9c3a",
+  "active": "bde8a2817e1219dc",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Templates/Prep Template.md",
+    "Session Notes/Session 00 - Lost Things.md",
     "Index.md",
-    "Untitled.md",
+    "Attachments.md",
+    "Welcome.md",
     "PCs",
     "Session Notes",
     "Quests",
@@ -214,7 +215,6 @@
     "Magic Items",
     "Locations",
     "Templates/Quest Template.md",
-    "Templates/Prep Template.md",
     "Templates/Organization Template.md",
     "Templates/NPC Template.md",
     "Templates/Location Template.md",

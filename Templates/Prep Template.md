@@ -11,10 +11,7 @@ summary:: ""
 ## Prep
 ### 1. Review Characters
 
-* [[Hanz]]
-* [[Krizira]]
-* [[Lor]]
-
+* 
 
 ### 2. Strong Start
 
