@@ -51,6 +51,11 @@ summary:: ""
 		- Did some sort of task -- some little task
 			- Voodoo doll-esque that impacted somebody
 			- Maybe somebody at the carnival
+		- Deal
+			- [[Huckleberry]] jealous of [[Ellywick Tumblestrum]]
+			- Deal with "The Bitter End" to give bard powers
+			- Gave strand of hair to replace strand of hair on [[Ellywick Tumblestrum]]'s lute
+			- At the carnival (why he stu)
 * 
 
 ### Lost things
