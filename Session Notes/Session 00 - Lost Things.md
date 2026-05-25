@@ -24,8 +24,12 @@ summary:: ""
 	- 5e core/expanded that aren't legacy
 - Combat
 	- More combat-light than Curse of Strahd
-	- Very few villains whose motive is 
+		- Very few villains whose motive is to explicitly kill you
+		- Will come into conflict over goals (e.g. Wicked Witch of the West wants the slippers, not to kill Dorothy)
+		- Can often be tricked, bribed, reasoned with, stolen from, or maybe they are just misunderstood
 	- Considering adding some more unambiguous bad guys
+		- Fun catharsis
+		- Don't want it to feel like a "failure" if you roll initiative
 
 ## Character Checklist
 
