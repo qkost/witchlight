@@ -52,17 +52,19 @@ summary:: ""
 			- Voodoo doll-esque that impacted somebody
 			- Maybe somebody at the carnival
 		- Deal
-			- [[Huckleberry]] jealous of [[Ellywick Tumblestrum]]
+			- [[Huckleberry]] jealous of [[Ellywick Tumblestrum]] who is a renound bard
 			- Deal with "The Bitter End" to give bard powers
-			- Gave strand of hair to replace strand of hair on [[Ellywick Tumblestrum]]'s lute
-			- At the carnival (why he stu)
+			- Give strand of hair to replace strand of hair on [[Ellywick Tumblestrum]]'s lute
+				- Successful and sounded like normal when played
+				- Unable to travel to [[Prismere]] to help [[Zybilna]]
+			- [[Ellywick Tumblestrum]] was at the carnival (why he snuck in without a ticket)
 * 
 
 ### Lost things
 
 | #   | PC            | Player | Thing                   | Magic Item | Keeper |
 | --- | ------------- | ------ | ----------------------- | ---------- | ------ |
-| 1   | Huckleberry   | Sean   | Real name/Subtlety      |            | 3      |
+| 1   | Huckleberry   | Sean   | Subtlety                |            | 3      |
 | 2   | Belcar "Bell" | Tim    | Ability to keep secrets |            | 6      |
 | 3   | Auriel        | Yvette |                         |            | 7      |
 
