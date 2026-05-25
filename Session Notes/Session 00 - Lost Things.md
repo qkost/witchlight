@@ -36,10 +36,9 @@ summary:: ""
 
 ## Character Checklist
 
-- [ ] Lost things (roll for which hag)
+- [ ] Lost things
 - [ ] Backstory
 - [ ] Image for token before first session
-
 
 ## Notes
 
