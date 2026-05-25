@@ -48,7 +48,9 @@ summary:: ""
 	- "Devil Went Down to Georgia"
 		- Patron: [[Endelyn Moongrave]]
 		- Gave abilities
-		- Did some sort of task
+		- Did some sort of task -- some little task
+			- Voodoo doll-esque that impacted somebody
+			- Maybe somebody at the carnival
 * 
 
 ### Lost things
