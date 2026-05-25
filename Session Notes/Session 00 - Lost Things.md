@@ -43,6 +43,12 @@ summary:: ""
 
 ### PCs
 
+- Sean's character
+	- "Devil Went Down to Georgia"
+		- [[Ellywick Tumblestrum]]
+		- 
+* 
+
 ### Lost things
 
 | #   | PC            | Player | Thing    | Magic Item | Keeper |
