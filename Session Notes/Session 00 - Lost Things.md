@@ -45,11 +45,11 @@ summary:: ""
 
 ### Lost things
 
-| #   | PC  | Player | Thing | Magic Item | Keeper |
-| --- | --- | ------ | ----- | ---------- | ------ |
-| 1   |     | Sean   |       |            |        |
-| 2   |     | Tim    |       |            |        |
-| 3   |     | Yvette |       |            |        |
+| #   | PC            | Player | Thing | Magic Item | Keeper |
+| --- | ------------- | ------ | ----- | ---------- | ------ |
+| 1   |               | Sean   |       |            |        |
+| 2   | Belcar "Bell" | Tim    |       |            |        |
+| 3   |               | Yvette |       |            |        |
 
 
 ## Prep
