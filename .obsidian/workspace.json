@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcfb942d26ecfac2",
+            "id": "0809c7e50619a12f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d110e5f81a08a1c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "Session 00 - Lost Things"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,12 +200,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "fcfb942d26ecfac2",
+  "active": "d110e5f81a08a1c9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Session Notes/Session 00 - Lost Things.md",
     "Rules of Conduct.md",
     "Attachments.md",
     "Index.md",
-    "Session Notes/Session 00 - Lost Things.md",
     "Templates/Prep Template.md",
     "Welcome.md",
     "PCs",

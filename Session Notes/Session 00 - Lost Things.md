@@ -46,8 +46,9 @@ summary:: ""
 
 - Sean's character
 	- "Devil Went Down to Georgia"
-		- [[Ellywick Tumblestrum]]
-		- 
+		- Patron: [[Endelyn Moongrave]]
+		- Gave abilities
+		- Did some sort of task
 * 
 
 ### Lost things
