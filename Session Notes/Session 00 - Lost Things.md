@@ -1,6 +1,6 @@
 ```
 date:: 2026-05-25
-summary:: ""
+summary:: "Created our heroic PCs: Auriel, Bel, and Huckleberry prior to entering the wonderful Wild Beyond the Witchlight."
 ```
 
 ## Intro
@@ -63,7 +63,7 @@ summary:: ""
 ### How they Met
 
 - Met at [[Witchlight Carnival]] some time ago
-- 
+- Group showing of some puppet show/story teller -- potentially this is when they lost their items
 
 ### Lost things
 

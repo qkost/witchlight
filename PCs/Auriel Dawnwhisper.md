@@ -1,2 +1,3 @@
 - Deity: [[Zybilna]]
-- 
+- Trickery cleric
+- Was a charlatan trying to proselytize and then prayed for powers, [[Zybilna]] granted wish
