@@ -82,4 +82,4 @@ summary:: ""
 | 22  | An emotion                                        |                                                |
 | 23  | Dreams                                            |                                                |
 | 24  | Self-control                                      |                                                |
-|     |                                                   |                                                |
+
