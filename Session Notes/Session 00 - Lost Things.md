@@ -37,7 +37,9 @@ summary:: ""
 ## Character Checklist
 
 - [ ] Lost things (roll for which hag)
+- [ ] Backstory
 - [ ] Image for token before first session
+
 
 ## Notes
 
@@ -51,11 +53,11 @@ summary:: ""
 
 ### Lost things
 
-| #   | PC            | Player | Thing    | Magic Item | Keeper |
-| --- | ------------- | ------ | -------- | ---------- | ------ |
-| 1   |               | Sean   | Subtlety |            |        |
-| 2   | Belcar "Bell" | Tim    |          |            |        |
-| 3   |               | Yvette |          |            |        |
+| #   | PC            | Player | Thing     | Magic Item | Keeper |
+| --- | ------------- | ------ | --------- | ---------- | ------ |
+| 1   | Huckleberry   | Sean   | Real name |            | 3      |
+| 2   | Belcar "Bell" | Tim    |           |            | 6      |
+| 3   | Auriel        | Yvette |           |            | 7      |
 
 
 
