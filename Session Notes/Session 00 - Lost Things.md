@@ -7,9 +7,24 @@ summary:: ""
 
 ## Campaign Info
 
-- Whimsical
+- Themes
+	- Whimsical
+	- Choices have consequences, sometimes unintentional
+	- Rules
+- Inspirations
+	- Wizard of Oz
+	- Peter Pan
+	- Alice in Wonderland
+	- Pan's Labyrinth
+	- Something Wicked this way Comes
 - [[Witchlight Carnival]] 
-- Allowable 
+- Allowable sources
+	- 5.5e core
+	- 5.5e expanded
+	- 5e core/expanded that aren't legacy
+- Combat
+	- More combat-light than Curse of Strahd
+	- Considering adding some mo
 
 ## Character Checklist
 
