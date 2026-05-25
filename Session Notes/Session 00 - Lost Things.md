@@ -56,7 +56,7 @@ summary:: ""
 
 ### Lost Things
 
-| d   | Thing                                             | Magic Item                                     |
+| d24 | Thing                                             | Magic Item                                     |
 | --- | ------------------------------------------------- | ---------------------------------------------- |
 | 1   | Ability to keep secrets                           | Wand of Secrets                                |
 | 2   | Ability to smile                                  | Wand of Smiles                                 |
@@ -83,3 +83,30 @@ summary:: ""
 | 23  | Dreams                                            |                                                |
 | 24  | Self-control                                      |                                                |
 
+
+| d24 | Thing                            |
+| --- | -------------------------------- |
+| 1   | Ability to keep secrets          |
+| 2   | Ability to smile                 |
+| 3   | Artistic creativity              |
+| 4   | Cherished doll or stuffed animal |
+| 5   | Handwriting                      |
+| 6   | Sense of direction               |
+| 7   | Sense of fashion                 |
+| 8   | Three inches of height           |
+| 9   | Sibling                          |
+| 10  | Important trinket                |
+| 11  | Sense of time                    |
+| 12  | Sense of humor                   |
+| 13  | Sense of Taste                   |
+| 14  | Subtlety                         |
+| 15  | Your faith                       |
+| 16  | Ability to Forget                |
+| 17  | Important memory                 |
+| 18  | Peace of mind                    |
+| 19  | Youth                            |
+| 20  | Identity                         |
+| 21  | Ability to say "No"              |
+| 22  | An emotion                       |
+| 23  | Dreams                           |
+| 24  | Self-control                     |
